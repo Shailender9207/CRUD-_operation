@@ -1,0 +1,31 @@
+body{
+    background-image: url("../images/bg_img1.jpeg");
+    text-align: center;
+    font-family: cursive;
+}
+.container p{
+    font-size: 2rem;
+
+    font-weight: bold;
+    padding: 20px;
+    color: aqua;
+}
+.container{
+    width: 55%;
+}
+th{
+    color: aliceblue;
+}
+#result{
+    color: aliceblue;
+    padding: 40px;
+}
+tbody{
+    width: 500px;
+    color: antiquewhite;
+}
+#table_body{
+    color: antiquewhite;
+}
+
+
